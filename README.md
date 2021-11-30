@@ -12,3 +12,9 @@ My implementation:
 Fork & exec example:
 'ls -l -a' - 1 and more arguments
 'exit'
+
+Compile Server and execute: 
+```shell
+gcc -o microshell microshell.c
+./microshell
+```
