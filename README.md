@@ -1,6 +1,7 @@
 # Microshell
 Microshell napisany na systemy operacyjne
 
+```shell
 MicroShell SOP
 Autor: Bartosz Jackowiak
 My implementation:
@@ -12,8 +13,9 @@ My implementation:
 Fork & exec example:
 'ls -l -a' - 1 and more arguments
 'exit'
+```
 
-Compile Server and execute: 
+Compile Microshell and execute: 
 ```shell
 gcc -o microshell microshell.c
 ./microshell
