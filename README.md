@@ -15,7 +15,7 @@ Fork & exec example:
 'exit'
 ```
 
-Compile Microshell and execute: 
+Kompilacja
 ```shell
 gcc -o microshell microshell.c
 ./microshell
